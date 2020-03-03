@@ -4,7 +4,7 @@
 
 ```
 
-git clone https://github.com/Pinanchen/V2ray-auto -b master
+git clone https://github.com/Istheir/v2ray-auto -b master
 cd V2ray-auto
 chmod +x install.sh
 ./install.sh local
